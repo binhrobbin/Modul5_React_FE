@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "haiTT",
+      "address": "Quảng Nam"
+    },
+    {
+      "id": 2,
+      "name": "haiTT2",
+      "address": "Quảng Nam"
+    },
+    {
+      "id": 5,
+      "name": "C11",
+      "address": "Quảng Nam"
+    },
+    {
+      "id": 4,
+      "name": "HaiTT",
+      "address": "abc"
+    },
+    {
+      "id": "8",
+      "name": "HaiTT",
+      "address": "abc"
+    },
+    {
+      "id": "9",
+      "name": "HaiTT",
+      "address": "abc12"
+    },
+    {
+      "id": "10",
+      "name": "HaiTT",
+      "address": "abc"
+    },
+    {
+      "id": "11",
+      "name": "HaiTABCDEFG",
+      "address": "abc"
+    }
+  ],
+  "classrooms": [],
+  "teacher": {}
+}

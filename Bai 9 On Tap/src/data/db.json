@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "TriA",
+      "address": "Đà nẵng",
+      "classroom": {
+        "id": 2,
+        "nameClass": "C1223G1"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nokia",
+      "address": "295 Nguyen Tat Thanh",
+      "classroom": {
+        "id": 1,
+        "nameClass": "C1123G1"
+      }
+    }
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "nameClass": "C1123G1"
+    },
+    {
+      "id": 2,
+      "nameClass": "C1223G1"
+    }
+  ],
+  "teacher": {}
+}
